@@ -1,0 +1,22 @@
+# Core dependencies - Updated for Python 3.12 compatibility
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+numpy>=1.26.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+scikit-learn>=1.3.0
+Pillow>=10.0.0
+
+# OCR libraries
+pytesseract>=0.3.10
+easyocr>=1.7.0
+
+# Deep Learning - Compatible versions
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+
+# Utilities
+tqdm>=4.66.0
+PyYAML>=6.0.0
+seaborn>=0.12.0

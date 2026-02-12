@@ -1,0 +1,7 @@
+names:
+- license_plate
+nc: 1
+path: C:\Users\dzukl\OneDrive\Desktop\DPNS\license-plate-detection\data\processed
+test: splits/test/images
+train: splits/train/images
+val: splits/val/images

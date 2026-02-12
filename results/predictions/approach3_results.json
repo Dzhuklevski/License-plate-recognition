@@ -1,0 +1,457 @@
+[
+  {
+    "filename": "Cars0.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.47690844535827637
+  },
+  {
+    "filename": "Cars102.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.12246227264404297
+  },
+  {
+    "filename": "Cars106.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.016310691833496094
+  },
+  {
+    "filename": "Cars113.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.013883113861083984
+  },
+  {
+    "filename": "Cars12.png",
+    "detected_text": "37",
+    "confidence": 30,
+    "success": true,
+    "processing_time": 0.11533164978027344
+  },
+  {
+    "filename": "Cars120.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.12673139572143555
+  },
+  {
+    "filename": "Cars126.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.01251840591430664
+  },
+  {
+    "filename": "Cars128.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.013599395751953125
+  },
+  {
+    "filename": "Cars136.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.014213323593139648
+  },
+  {
+    "filename": "Cars14.png",
+    "detected_text": "P",
+    "confidence": 15,
+    "success": true,
+    "processing_time": 0.13866853713989258
+  },
+  {
+    "filename": "Cars161.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.13564729690551758
+  },
+  {
+    "filename": "Cars167.png",
+    "detected_text": "415LK10898",
+    "confidence": 100,
+    "success": true,
+    "processing_time": 0.12241458892822266
+  },
+  {
+    "filename": "Cars168.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.013479948043823242
+  },
+  {
+    "filename": "Cars169.png",
+    "detected_text": "PRIVATE",
+    "confidence": 100,
+    "success": true,
+    "processing_time": 0.1314561367034912
+  },
+  {
+    "filename": "Cars17.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.012357711791992188
+  },
+  {
+    "filename": "Cars182.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.013645648956298828
+  },
+  {
+    "filename": "Cars183.png",
+    "detected_text": "BRIT",
+    "confidence": 60,
+    "success": true,
+    "processing_time": 0.1397571563720703
+  },
+  {
+    "filename": "Cars196.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.014536380767822266
+  },
+  {
+    "filename": "Cars198.png",
+    "detected_text": "HHO1AV8866",
+    "confidence": 100,
+    "success": true,
+    "processing_time": 0.12897682189941406
+  },
+  {
+    "filename": "Cars202.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.006563663482666016
+  },
+  {
+    "filename": "Cars203.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.12860488891601562
+  },
+  {
+    "filename": "Cars211.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.018622636795043945
+  },
+  {
+    "filename": "Cars225.png",
+    "detected_text": "TABZUAR",
+    "confidence": 100,
+    "success": true,
+    "processing_time": 0.14492058753967285
+  },
+  {
+    "filename": "Cars231.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.014507055282592773
+  },
+  {
+    "filename": "Cars235.png",
+    "detected_text": "F030126",
+    "confidence": 100,
+    "success": true,
+    "processing_time": 0.13196229934692383
+  },
+  {
+    "filename": "Cars236.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.007523775100708008
+  },
+  {
+    "filename": "Cars247.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.015580177307128906
+  },
+  {
+    "filename": "Cars254.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.018726110458374023
+  },
+  {
+    "filename": "Cars260.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.013407707214355469
+  },
+  {
+    "filename": "Cars274.png",
+    "detected_text": "A",
+    "confidence": 15,
+    "success": true,
+    "processing_time": 0.1405034065246582
+  },
+  {
+    "filename": "Cars277.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.1564803123474121
+  },
+  {
+    "filename": "Cars281.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.1404261589050293
+  },
+  {
+    "filename": "Cars282.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.1532902717590332
+  },
+  {
+    "filename": "Cars286.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.14658069610595703
+  },
+  {
+    "filename": "Cars289.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.017647266387939453
+  },
+  {
+    "filename": "Cars300.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.00961446762084961
+  },
+  {
+    "filename": "Cars304.png",
+    "detected_text": "PTNVCUT2",
+    "confidence": 100,
+    "success": true,
+    "processing_time": 0.14299774169921875
+  },
+  {
+    "filename": "Cars313.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.016607284545898438
+  },
+  {
+    "filename": "Cars322.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.020395755767822266
+  },
+  {
+    "filename": "Cars345.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.01834893226623535
+  },
+  {
+    "filename": "Cars349.png",
+    "detected_text": "PYS6BXU",
+    "confidence": 100,
+    "success": true,
+    "processing_time": 0.14414453506469727
+  },
+  {
+    "filename": "Cars351.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.009470462799072266
+  },
+  {
+    "filename": "Cars356.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.02159571647644043
+  },
+  {
+    "filename": "Cars359.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.01618480682373047
+  },
+  {
+    "filename": "Cars367.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.13586974143981934
+  },
+  {
+    "filename": "Cars370.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.15310430526733398
+  },
+  {
+    "filename": "Cars405.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.1377885341644287
+  },
+  {
+    "filename": "Cars416.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.015835046768188477
+  },
+  {
+    "filename": "Cars420.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.01437067985534668
+  },
+  {
+    "filename": "Cars426.png",
+    "detected_text": "CRAIG",
+    "confidence": 75,
+    "success": true,
+    "processing_time": 0.12847614288330078
+  },
+  {
+    "filename": "Cars43.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.008166313171386719
+  },
+  {
+    "filename": "Cars51.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.008499383926391602
+  },
+  {
+    "filename": "Cars53.png",
+    "detected_text": "BH00SE",
+    "confidence": 90,
+    "success": true,
+    "processing_time": 0.13718891143798828
+  },
+  {
+    "filename": "Cars62.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.01457357406616211
+  },
+  {
+    "filename": "Cars64.png",
+    "detected_text": "TAX",
+    "confidence": 45,
+    "success": true,
+    "processing_time": 0.13796019554138184
+  },
+  {
+    "filename": "Cars65.png",
+    "detected_text": "EE",
+    "confidence": 30,
+    "success": true,
+    "processing_time": 0.1409440040588379
+  },
+  {
+    "filename": "Cars7.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.011541604995727539
+  },
+  {
+    "filename": "Cars70.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.012253046035766602
+  },
+  {
+    "filename": "Cars77.png",
+    "detected_text": "R26CU6799",
+    "confidence": 100,
+    "success": true,
+    "processing_time": 0.13311171531677246
+  },
+  {
+    "filename": "Cars80.png",
+    "detected_text": "BAD2371",
+    "confidence": 100,
+    "success": true,
+    "processing_time": 0.1365509033203125
+  },
+  {
+    "filename": "Cars83.png",
+    "detected_text": "FCA",
+    "confidence": 45,
+    "success": true,
+    "processing_time": 0.14907360076904297
+  },
+  {
+    "filename": "Cars92.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.016018390655517578
+  },
+  {
+    "filename": "Cars95.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.018747806549072266
+  },
+  {
+    "filename": "Cars96.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.13615775108337402
+  },
+  {
+    "filename": "Cars98.png",
+    "detected_text": "",
+    "confidence": 0,
+    "success": false,
+    "processing_time": 0.01937103271484375
+  }
+]
